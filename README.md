@@ -43,7 +43,7 @@ https://steamcommunity.com/workshop/filedetails/?id=2455983609
 ### Cooperative Puzzle
 **Release date:** October 28, 2021<br>
 **Workshop Link:** https://steamcommunity.com/sharedfiles/filedetails/?id=2639391148<br>
-**Trailer:** https://youtu.be/UlpUl5zAkSc<br>
+**Guide Video:** https://youtu.be/UlpUl5zAkSc<br>
 **Complete Gameplay:** https://www.youtube.com/watch?v=pd6xkR2BsiM<br>
 **Description:** A completely innovative map proposal for the workshop. The first cooperative puzzle map where each player appears in a different area and must collaborate by sending each other items and discussing the clues they find to solve puzzles and progress.<br>
 <img src="https://github.com/AndresTejeroMena/BO3ZMB_DonAndres666/blob/main/thumbnails/cooperativeridle.jpg" alt="Descripción de la imagen" width="200" height="auto">
