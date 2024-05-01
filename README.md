@@ -17,14 +17,18 @@ https://steamcommunity.com/workshop/filedetails/?id=2455983609
 **Trailer:** https://youtu.be/YLAmMMrIU9w<br>
 **Description:** This map represents my latest significant contribution. It follows a theme set within a pyramid. To complete the easter egg, players must overcome more than 10 original puzzles. Personally, I consider it the most professional map I have developed.<br>
 <img src="https://github.com/AndresTejeroMena/BO3ZMB_DonAndres666/blob/main/thumbnails/thelastpharaoh.jpg" alt="Descripción de la imagen" width="200" height="auto">
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### The Cinema Challenge
 **Release date:** June 29, 2023<br>
 **Workshop Link:** https://steamcommunity.com/sharedfiles/filedetails/?id=2996448468<br>
 **Description:** This map was submitted to the "$10,000 Movie Map Contest" worldwide map contest and won one of the prizes. The map featured the "8 doors challenge" concept, which was invented by me and has been used in numerous maps. Each room was inspired by a movie, and in each one, you had to overcome a challenge related to that movie.<br>
 **Contest Video:** https://www.youtube.com/watch?v=qggZqPBS4gk&t=38s<br>
 <img src="https://github.com/AndresTejeroMena/BO3ZMB_DonAndres666/blob/main/thumbnails/cinemachallenge.png" alt="Descripción de la imagen" width="200" height="auto">
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Troll Perk Machines
 **Release date:** June 23, 2022<br>
 **Workshop Link:** https://steamcommunity.com/sharedfiles/filedetails/?id=2824938338<br>
@@ -32,14 +36,18 @@ https://steamcommunity.com/workshop/filedetails/?id=2455983609
 **Complete Gameplay:** https://www.youtube.com/watch?v=tqbN2QlWS64<br>
 **Description:** A very fun map where you have to advance through restaurants from different parts of the world. In each restaurant, a robot will offer you two drinks, and you must choose one of them; one will give you a positive effect and the other a negative effect.<br>
 <img src="https://github.com/AndresTejeroMena/BO3ZMB_DonAndres666/blob/main/thumbnails/trollperkmachines.jpg" alt="Descripción de la imagen" width="200" height="auto">
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Chiquipark
 **Release date:** February 3, 2022<br>
 **Workshop Link:** https://steamcommunity.com/sharedfiles/filedetails/?id=2741670509<br>
 **Complete Gameplay:** https://www.youtube.com/watch?v=rQq0iLJfmJU<br>
 **Description:** My most highly rated map. With a total of over 100,000 players and a 90% positive rating, this can be considered my most significant map. The uniqueness of this map is that to activate the drink machines, electricity, and PAP, players had to overcome challenges in the style of Wipeout. I made it thinking it would be my last map, but it was so well received that I felt motivated to continue developing more maps.<br>
 <img src="https://github.com/AndresTejeroMena/BO3ZMB_DonAndres666/blob/main/thumbnails/chiquipark.jpg" alt="Descripción de la imagen" width="200" height="auto">
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Cooperative Puzzle
 **Release date:** October 28, 2021<br>
 **Workshop Link:** https://steamcommunity.com/sharedfiles/filedetails/?id=2639391148<br>
@@ -47,7 +55,9 @@ https://steamcommunity.com/workshop/filedetails/?id=2455983609
 **Complete Gameplay:** https://www.youtube.com/watch?v=pd6xkR2BsiM<br>
 **Description:** A completely innovative map proposal for the workshop. The first cooperative puzzle map where each player appears in a different area and must collaborate by sending each other items and discussing the clues they find to solve puzzles and progress.<br>
 <img src="https://github.com/AndresTejeroMena/BO3ZMB_DonAndres666/blob/main/thumbnails/cooperativeridle.jpg" alt="Descripción de la imagen" width="200" height="auto">
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Retro Arcade Challenge
 **Release date:** September 23, 2021<br>
 **Workshop Link:** https://steamcommunity.com/sharedfiles/filedetails/?id=2609608842<br>
@@ -55,14 +65,18 @@ https://steamcommunity.com/workshop/filedetails/?id=2455983609
 **World Record Gameplay:** https://youtu.be/1FUiNdEcp9w<br>
 **Description:** For me, my best map and the one that made a name for me among map creators. This map follows the "8 doors challenge" philosophy that I had proposed earlier. In this case, each room was based on a retro arcade game, and in each one, you had to overcome a mini-game related to it. It probably had less impact than some of my other maps due to its high difficulty. Still, I added a timing system so people could compete to complete it in the shortest time possible. I never imagined the number of people who would compete to beat the record. In terms of map concept, I am clear that this is the one I am most proud of.<br>
 <img src="https://github.com/AndresTejeroMena/BO3ZMB_DonAndres666/blob/main/thumbnails/retroarcadechallenge.jpg" alt="Descripción de la imagen" width="200" height="auto">
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### CyberTower Impossible Challenge
 **Release date:** May 01, 2024 process<br>
 **Workshop Link:** https://steamcommunity.com/sharedfiles/filedetails/?id=3236566667<br>
 **Description:** This map was submitted to the "$10,000 Videogames Map Contest" worldwide map contest. It's a highly detailed map based on the video game Cyberpunk 2077. There's a lot of work behind it, and it turned out to be one of my best contributions to the workshop. The contest is still open, so the winners are not known yet.<br>
 **Contest Video:** <br>
 <img src="https://github.com/AndresTejeroMena/BO3ZMB_DonAndres666/blob/main/thumbnails/cyberpunk.jpg" alt="Descripción de la imagen" width="200" height="auto">
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### SAW:BREAKING BRAIN
 **Release date:** In development process<br>
 **Workshop Link:** In development process<br>
