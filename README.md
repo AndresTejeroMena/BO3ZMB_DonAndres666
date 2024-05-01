@@ -56,6 +56,13 @@ https://steamcommunity.com/workshop/filedetails/?id=2455983609
 **Description:** For me, my best map and the one that made a name for me among map creators. This map follows the "8 doors challenge" philosophy that I had proposed earlier. In this case, each room was based on a retro arcade game, and in each one, you had to overcome a mini-game related to it. It probably had less impact than some of my other maps due to its high difficulty. Still, I added a timing system so people could compete to complete it in the shortest time possible. I never imagined the number of people who would compete to beat the record. In terms of map concept, I am clear that this is the one I am most proud of.<br>
 <img src="https://github.com/AndresTejeroMena/BO3ZMB_DonAndres666/blob/main/thumbnails/retroarcadechallenge.jpg" alt="Descripción de la imagen" width="200" height="auto">
 
+### CyberTower Impossible Challenge
+**Release date:** May 01, 2024 process<br>
+**Workshop Link:** https://steamcommunity.com/sharedfiles/filedetails/?id=3236566667<br>
+**Description:** This map was submitted to the "$10,000 Videogames Map Contest" worldwide map contest. It's a highly detailed map based on the video game Cyberpunk 2077. There's a lot of work behind it, and it turned out to be one of my best contributions to the workshop. The contest is still open, so the winners are not known yet.<br>
+**Contest Video:** <br>
+<img src="https://github.com/AndresTejeroMena/BO3ZMB_DonAndres666/blob/main/thumbnails/cyberpunk.jpg" alt="Descripción de la imagen" width="200" height="auto">
+
 ### SAW:BREAKING BRAIN
 **Release date:** In development process<br>
 **Workshop Link:** In development process<br>
