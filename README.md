@@ -16,6 +16,7 @@ https://steamcommunity.com/workshop/filedetails/?id=2455983609
 **Workshop Link:** https://steamcommunity.com/sharedfiles/filedetails/?id=3114039456<br>
 **Trailer:** https://youtu.be/YLAmMMrIU9w<br>
 **Guide:** https://www.youtube.com/watch?v=OCze7-a7mdU<br>
+**Gameplay:** https://www.youtube.com/watch?v=YHXSp4vI94w<br>
 **Description:** This map represents my latest significant contribution. It follows a theme set within a pyramid. To complete the easter egg, players must overcome more than 10 original puzzles. Personally, I consider it the most professional map I have developed.<br>
 <img src="https://github.com/AndresTejeroMena/BO3ZMB_DonAndres666/blob/main/thumbnails/thelastpharaoh.jpg" alt="Descripción de la imagen" width="200" height="auto">
 
