@@ -73,7 +73,7 @@ https://steamcommunity.com/workshop/filedetails/?id=2455983609
 ### CyberTower Impossible Challenge
 **Release date:** May 01, 2024 process<br>
 **Workshop Link:** https://steamcommunity.com/sharedfiles/filedetails/?id=3236566667<br>
-**Description:** This map was submitted to the "$10,000 Videogames Map Contest" worldwide map contest. It's a highly detailed map based on the video game Cyberpunk 2077. There's a lot of work behind it, and it turned out to be one of my best contributions to the workshop. The contest is still open, so the winners are not known yet.<br>
+**Description:** This map was a winner on the "$10,000 Videogames Map Contest" worldwide map contest. It's a highly detailed map based on the video game Cyberpunk 2077. There's a lot of work behind it, and it turned out to be one of my best contributions to the workshop.<br>
 **Complete Gameplay:** https://www.youtube.com/watch?v=gHaGq5xK7lU<br>
 <img src="https://github.com/AndresTejeroMena/BO3ZMB_DonAndres666/blob/main/thumbnails/cyberpunk.jpg" alt="Descripción de la imagen" width="200" height="auto">
 
