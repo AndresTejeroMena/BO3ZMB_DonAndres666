@@ -5,6 +5,7 @@ As a custom maps developer for the video game Call Of Duty Black Ops 3, I have c
 I have been globally recognized, winning global contest :
 - "$10,000 Movie Map Contest" for "The Cinema Challenge"
 - "$10,000 Halloween Map Contest" for "SAW: Brainbreaker"
+- "$10,000 Videogames Map Contest" for "Cybertower Impossible Challenge"
 
 The potential of my maps lies in puzzle design and the amount of scripting involved. Additionally, the originality and proposal of ideas that haven't been seen in other maps contribute to their appeal. In this hub, I share the scripts of my maps for fellow developers to reference and draw inspiration from.
 
